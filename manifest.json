@@ -6,7 +6,7 @@
   "theme_color": "#dcca87",
   "orientation": "portrait",
   "display": "standalone",
-  "start_url": "/",
+  "start_url": "./?utm_source=web_app_manifest",
   "scope": "/",
   "lang": "es-MX",
   "icons": [
