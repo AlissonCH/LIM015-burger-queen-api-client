@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/LIM015-burger-queen-api-client/burguer-queen/static/css/main.34338748.chunk.css",
+    "main.js": "/LIM015-burger-queen-api-client/burguer-queen/static/js/main.b8532528.chunk.js",
+    "main.js.map": "/LIM015-burger-queen-api-client/burguer-queen/static/js/main.b8532528.chunk.js.map",
+    "runtime-main.js": "/LIM015-burger-queen-api-client/burguer-queen/static/js/runtime-main.c00a7161.js",
+    "runtime-main.js.map": "/LIM015-burger-queen-api-client/burguer-queen/static/js/runtime-main.c00a7161.js.map",
+    "static/js/2.0b4e5958.chunk.js": "/LIM015-burger-queen-api-client/burguer-queen/static/js/2.0b4e5958.chunk.js",
+    "static/js/2.0b4e5958.chunk.js.map": "/LIM015-burger-queen-api-client/burguer-queen/static/js/2.0b4e5958.chunk.js.map",
+    "index.html": "/LIM015-burger-queen-api-client/burguer-queen/index.html",
+    "static/css/main.34338748.chunk.css.map": "/LIM015-burger-queen-api-client/burguer-queen/static/css/main.34338748.chunk.css.map",
+    "static/js/2.0b4e5958.chunk.js.LICENSE.txt": "/LIM015-burger-queen-api-client/burguer-queen/static/js/2.0b4e5958.chunk.js.LICENSE.txt",
+    "static/media/Routes.css": "/LIM015-burger-queen-api-client/burguer-queen/static/media/background.7ff1a916.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c00a7161.js",
+    "static/js/2.0b4e5958.chunk.js",
+    "static/css/main.34338748.chunk.css",
+    "static/js/main.b8532528.chunk.js"
+  ]
+}
