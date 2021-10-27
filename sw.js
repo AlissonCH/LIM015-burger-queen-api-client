@@ -1,6 +1,6 @@
 /* eslint-disable array-callback-return */
 /* eslint-disable no-restricted-globals */
-const CACHE_NAME = 'v1_cache_programador_fitness';
+const CACHE_NAME = 'Burguer-queen';
 const urlsToCache = [
   // './static/css/main.c54c1807.chunk.css',
   // './static/css/main.c54c1807.chunk.css.map',
@@ -14,7 +14,6 @@ const urlsToCache = [
   // './static/media/background.7ff1a916.jpg',
   './',
   './style/Admin.css',
-  './style/App.css',
   './style/loader.css',
   './style/Login.css',
   './style/Modal.css',
@@ -33,7 +32,7 @@ const urlsToCache = [
   './pages/ChefOrders.js',
   './pages/EditProduct.js',
   './pages/EditUser.js',
-  './pages/Error.js',
+  './pages/Error404.js',
   './pages/Login.js',
   './pages/NewProduct.js',
   './pages/NewUser.js',
@@ -43,13 +42,13 @@ const urlsToCache = [
   './pages/Waiterneworder.js',
   './media/background.jpg',
   './media/bq-logo.svg',
-  './media/man.png',
   './helpers/helpers.js',
-  './media/helpHttp.js',
+  './helpers/helpHttp.js',
   './components/Breakfast.js',
   './components/Diary.js',
   './components/Loader.js',
   './components/Modals.js',
+  './index.js',
 ];
 
 self.addEventListener('install', (e) => {
