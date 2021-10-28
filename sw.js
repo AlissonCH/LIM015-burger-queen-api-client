@@ -1,6 +1,6 @@
 /* eslint-disable array-callback-return */
 /* eslint-disable no-restricted-globals */
-const CACHE_NAME = 'Burguer-queen';
+const CACHE_NAME = 'Burger-queen';
 const urlsToCache = [
   './static/css/main.c54c1807.chunk.css',
   './static/css/main.c54c1807.chunk.css.map',

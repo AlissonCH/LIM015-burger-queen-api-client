@@ -1,13 +1,13 @@
 {
-  "name": "#BurguerQueen",
-  "short_name": "#BurguerQueen",
+  "name": "#BurgerQueen",
+  "short_name": "#BurgerQueen",
   "description": "Web Application to Hamburger Restaurant",
   "background_color": "#000000",
   "theme_color": "#dcca87",
   "orientation": "portrait",
   "display": "standalone",
   "start_url": "./?utm_source=web_app_manifest",
-  "scope": "./",
+  "scope": "./LIM015-burger-queen-api-client/",
   "lang": "es-MX",
   "icons": [
     {
