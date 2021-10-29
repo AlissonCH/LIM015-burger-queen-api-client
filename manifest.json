@@ -7,7 +7,7 @@
   "orientation": "portrait",
   "display": "standalone",
   "start_url": "./?utm_source=web_app_manifest",
-  "scope": "./LIM015-burger-queen-api-client/",
+  "scope": "/",
   "lang": "es-MX",
   "icons": [
     {
