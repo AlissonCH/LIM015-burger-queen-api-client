@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/LIM015-burger-queen-api-client/static/css/main.2308103b.chunk.css",
-    "main.js": "/LIM015-burger-queen-api-client/static/js/main.0ceae171.chunk.js",
-    "main.js.map": "/LIM015-burger-queen-api-client/static/js/main.0ceae171.chunk.js.map",
+    "main.js": "/LIM015-burger-queen-api-client/static/js/main.17744c72.chunk.js",
+    "main.js.map": "/LIM015-burger-queen-api-client/static/js/main.17744c72.chunk.js.map",
     "runtime-main.js": "/LIM015-burger-queen-api-client/static/js/runtime-main.dbaaa020.js",
     "runtime-main.js.map": "/LIM015-burger-queen-api-client/static/js/runtime-main.dbaaa020.js.map",
     "static/js/2.d7beb366.chunk.js": "/LIM015-burger-queen-api-client/static/js/2.d7beb366.chunk.js",
@@ -16,6 +16,6 @@
     "static/js/runtime-main.dbaaa020.js",
     "static/js/2.d7beb366.chunk.js",
     "static/css/main.2308103b.chunk.css",
-    "static/js/main.0ceae171.chunk.js"
+    "static/js/main.17744c72.chunk.js"
   ]
 }
