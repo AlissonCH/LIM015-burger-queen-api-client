@@ -50,7 +50,7 @@ self.addEventListener('install', (e) => {
         return cache.addAll(urlsToCache)
           .then(() => self.skipWaiting());
       })
-      .catch((err) => console.log('Falló registro de cache', err)),
+      .catch((err) => console.info('Falló registro de cache', err)),
   );
 });
 
